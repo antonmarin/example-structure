@@ -1,4 +1,6 @@
 package infra.postgresql
 
-class OrdersRepository {
+import domain.showcase.ProductsStorage
+
+class ProductsRepository : ProductsStorage{
 }
